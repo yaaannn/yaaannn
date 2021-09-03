@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=yaaannn&show_icons=true&theme=chartreuse-dark)  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yaaannn&layout=compact&show_icons=true&theme=chartreuse-dark)  
+<!--![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yaaannn&layout=compact&show_icons=true&theme=chartreuse-dark)  
+-->
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=yaaannn&layout=compact&show_icons=true&theme=chartreuse-dark)  
 <!--
 **VickScarlet/vickscarlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
