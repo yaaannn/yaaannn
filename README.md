@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=yaaannn&show_icons=true)  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yaaannn&layout=compact&show_icons=true)  
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=yaaannn&layout=compact&show_icons=true)  
 <!--
