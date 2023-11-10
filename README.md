@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaaannn&layout=compact)
 <!--
  ![Stats](https://github-readme-stats.vercel.app/api?username=yaaannn&show_icons=true)  
 
